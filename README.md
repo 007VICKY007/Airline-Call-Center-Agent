@@ -29,8 +29,8 @@ The system is organized into three main modules:
 
 1. Clone this repository:
    
-   git clone https://github.com/yourusername/airline-call-center-agent.git
-   cd airline-call-center-system
+   https://github.com/007VICKY007/Airline-Call-Center-Agent.git
+   cd Airline-Call-Center-Agent
    
 
 2. Create a virtual environment (recommended):
